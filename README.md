@@ -6,7 +6,7 @@ up to six attempts to guess a five-letter word.
 
 ## Live build
 
-- [Wordle Clone]()
+- [Wordle Clone](https://fabulous-stroopwafel-5bbcd8.netlify.app/)
 
 ## Features
 
