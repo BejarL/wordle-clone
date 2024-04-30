@@ -4,7 +4,7 @@ This repository contains a simple yet engaging Wordle clone implemented in HTML,
 CSS, and JavaScript. Wordle is a popular word-guessing game where players have
 up to six attempts to guess a five-letter word.
 
-## Live build
+## Live Build
 
 - [Wordle Clone](https://fabulous-stroopwafel-5bbcd8.netlify.app/)
 
